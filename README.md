@@ -24,12 +24,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **BCA  — Data Science & AI (with IBM)** @ SRMU, Lucknow · Graduating **2027** · CGPA **8.34**
+- 🎓 **BCA  — Data Science & AI (with IBM)** 
 - 📊 Detail-oriented and well-organized, I love turning **messy datasets into clean dashboards** and clear, actionable insights
-- 🏆 **Top-10 Finalist** — IBM Experts Lab National Hackathon **2026** (out of **300+ teams**) with **InboxAI**, an agentic AI email-triage system
-- 🛠️ Currently building data projects with **Python, SQL, Power BI & Advanced Excel**
-- 🤝 Core Committee Member, **Technical Committee @ SRMU** — organized **4+** technical events end-to-end and coordinated teams of **10+** members
-- ⚡ **Fun fact:** I learn best by *building* — most of my skills come from real projects, not tutorials
+- 🏆 **Top-10 Finalist** — IBM Experts Lab National Hackathon **2026** (out of **300+ teams**) 
+- 🛠️ Currently building data projects with **Python, Machine Learning, SQL, Power BI & Advanced Excel**
+
 
 ---
 
@@ -39,7 +38,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 **Data Analysis & BI**
 
@@ -128,7 +126,7 @@ A complete parking-management system that handles vehicle entry/exit, automatic 
 
 | Qualification | Institution | Score | Year |
 |---|---|---|---|
-| **BCA — Data Science & AI (IBM)** | Shri Ramswaroop Memorial University, Lucknow | CGPA 8.34 | 2024–2027 |
+| **BCA — Data Science & AI (IBM)** | Shri Ramswaroop Memorial University, Lucknow 
 ---
 
 ## 📊 GitHub Stats
