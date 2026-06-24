@@ -124,8 +124,8 @@ A complete parking-management system that handles vehicle entry/exit, automatic 
 
 ## 🎓 Education
 
-| Qualification | Institution | Score | Year |
-|---|---|---|---|
+| Qualification | Institution 
+|---|---
 | **BCA — Data Science & AI (IBM)** | Shri Ramswaroop Memorial University, Lucknow 
 ---
 
