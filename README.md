@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===== HEADER / HERO ===== -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=4A9EFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Radhika+Pal+%F0%9F%91%8B;Aspiring+Data+Analyst;Turning+Messy+Data+into+Clear+Insights;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Advanced+Excel" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=4A9EFF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Radhika+Pal+%F0%9F%91%8B;Data+Nerd;Turning+Messy+Data+into+Clear+Insights;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Advanced+Excel" alt="Typing SVG" />
 
 <br/>
 
