@@ -24,10 +24,10 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **BCA  — Data Science & AI (with IBM)** 
-- 📊 Detail-oriented and well-organized, I love turning **messy datasets into clean dashboards** and clear, actionable insights
-- 🏆 **Top-10 Finalist** — IBM Experts Lab National Hackathon **2026** (out of **300+ teams**) 
-- 🛠️ Currently building data projects with **Python, Machine Learning, SQL, Power BI & Advanced Excel**
+- 🎓 **BCA in Data Science and AI (In collaboration with IBM)** 
+- 📊 Detail oriented and well-organized, I love turning **messy datasets into clean dashboards** and clear, actionable insights
+- 🏆 **Top-10 Finalist** of IBM Experts Lab National Hackathon **2026** (out of **300+ teams**) 
+- 🛠️ Currently building data projects with **Advanced Excel, SQL and Business Intelligence Tools like PowerBI**
 
 
 ---
@@ -64,7 +64,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 InboxAI — Agentic AI Email Triage System
+### 🤖 InboxAI : An Agentic AI Email Triage System
 > **🏆 Top-10 Finalist · IBM Experts Lab National Hackathon 2026 (out of 300+ teams)**
 
 A smart email assistant that reads your inbox, highlights what's important, gives quick summaries, and suggests actions you can take — all in one place.
@@ -126,29 +126,8 @@ A complete parking-management system that handles vehicle entry/exit, automatic 
 
 | Qualification | Institution 
 |---|---
-| **BCA — Data Science & AI (IBM)** | Shri Ramswaroop Memorial University, Lucknow 
+| **BCA in Data Science & AI (IBM)** | Shri Ramswaroop Memorial University, Lucknow 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Radhikaa2808&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Radhikaa2808&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhikaa2808&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Radhikaa2808&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<div align="center">
 
 ### 🤝 Connect With Me
 
